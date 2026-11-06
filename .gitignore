@@ -1,0 +1,25 @@
+# The release contains source only. Never commit user snapshots or profiles.
+offline/
+**/offline/
+appdata*/
+MCHOSEHUB/
+MCHOSE HUB/
+*.log
+*.lnk
+*.exe
+*.dll
+*.jsc
+*.node
+*.bin
+*.zip
+*.bak
+*.offline-original
+offline-config.json
+manifest.json
+__pycache__/
+*.pyc
+.venv/
+build/
+dist/
+.runtime/
+runtime/

@@ -1,0 +1,92 @@
+{
+  "python": {
+    "version": "3.14.10",
+    "source": "https://www.python.org/ftp/python/3.14.10/",
+    "sha256": {
+      "amd64": "90905e64a840557d8c1bc4f5b74db3d7ee85e3ffb217611cac1c7813acea4159",
+      "arm64": "bbe116bb1248820359cbf25127ac5c7794ea161869d83686cfbc9a45203ff836",
+      "win32": "11a28e8c00a6d8f56b0a6164d52546133a9ed015a5b33e04536917e4fd6e306c"
+    }
+  },
+  "brotli": {
+    "version": "1.2.1",
+    "source": "https://pypi.org/project/brotli/1.2.1/",
+    "wheels": {
+      "cp310-win32": {
+        "filename": "brotli-1.2.1-cp310-cp310-win32.whl",
+        "url": "https://files.pythonhosted.org/packages/21/5c/52875703ae2feb6fd0ee1b24d7ec06b61c4de783f1d300216f95a927748a/brotli-1.2.1-cp310-cp310-win32.whl",
+        "sha256": "390f5e174ac2296dafd047d0785591e61194ff3df11ad43abd2fddb0e750eff5"
+      },
+      "cp310-win_amd64": {
+        "filename": "brotli-1.2.1-cp310-cp310-win_amd64.whl",
+        "url": "https://files.pythonhosted.org/packages/df/a2/f08530dd6155467944cb86883b19979bed548475193b95200a2ecf8bea95/brotli-1.2.1-cp310-cp310-win_amd64.whl",
+        "sha256": "228abf241b39925450ea5046cbd8bc88ae1b91cd229037b0e194409df4ef2f4a"
+      },
+      "cp310-win_arm64": {
+        "filename": "brotli-1.2.1-cp310-cp310-win_arm64.whl",
+        "url": "https://files.pythonhosted.org/packages/ce/ce/6dd82d3da2bac19da4931a146cc7deed2225b2997b6a2717de669b4cbf47/brotli-1.2.1-cp310-cp310-win_arm64.whl",
+        "sha256": "509ee1058937d80d88b33aa893ca46e1925779d928181916bd60bda3a8738687"
+      },
+      "cp311-win32": {
+        "filename": "brotli-1.2.1-cp311-cp311-win32.whl",
+        "url": "https://files.pythonhosted.org/packages/67/d4/1c409823928a1417b98d627d6ccf4a43a9dcbfcd448b2982fe3ae75149cc/brotli-1.2.1-cp311-cp311-win32.whl",
+        "sha256": "23f0d23995100458d17f3bf5ce1e959fe46df894b472063a74266f7adeb2e72e"
+      },
+      "cp311-win_amd64": {
+        "filename": "brotli-1.2.1-cp311-cp311-win_amd64.whl",
+        "url": "https://files.pythonhosted.org/packages/f4/6d/1001898f9e6666027f5357f846d8d7b80e743a3e49703d128cf8ed91abe8/brotli-1.2.1-cp311-cp311-win_amd64.whl",
+        "sha256": "7248c282d7d6aef4ae89363da5fc3df7b9250eb04b252622955296eb5d0ea82f"
+      },
+      "cp311-win_arm64": {
+        "filename": "brotli-1.2.1-cp311-cp311-win_arm64.whl",
+        "url": "https://files.pythonhosted.org/packages/10/4d/cad8c72798bf22e442a01a3ce0049c69c5aef7255fb4f3bbca2b5f62ce64/brotli-1.2.1-cp311-cp311-win_arm64.whl",
+        "sha256": "f5fbda9703bce94a976e1a6bbdbbe0af25fb613a593a56091991359928b66c05"
+      },
+      "cp312-win32": {
+        "filename": "brotli-1.2.1-cp312-cp312-win32.whl",
+        "url": "https://files.pythonhosted.org/packages/b2/f6/8eacbc45a0a158897752fae9055a4d4a0cfdb1c8e15680d1815af3936da9/brotli-1.2.1-cp312-cp312-win32.whl",
+        "sha256": "96e6966edcfae74ffac2522d2dd1a304450d18807a9791f5ed0a3232192c9437"
+      },
+      "cp312-win_amd64": {
+        "filename": "brotli-1.2.1-cp312-cp312-win_amd64.whl",
+        "url": "https://files.pythonhosted.org/packages/3e/82/b7f6c56393f2224ff4108cf1cc255921be1c0ae5962163edbe367c8a55bc/brotli-1.2.1-cp312-cp312-win_amd64.whl",
+        "sha256": "f5342b8256476554b4045db8b7bf4dc4044d0405485f220f0cd80764bc0d7faf"
+      },
+      "cp312-win_arm64": {
+        "filename": "brotli-1.2.1-cp312-cp312-win_arm64.whl",
+        "url": "https://files.pythonhosted.org/packages/0a/6d/eff775fb2de444f224aa52f79ba400ff963377436495c3f01ed52c3071dd/brotli-1.2.1-cp312-cp312-win_arm64.whl",
+        "sha256": "b0c32f0660bb21e810ffc1d3d04b6ea682e118b8141c6e12522a3dacadeb70ee"
+      },
+      "cp313-win32": {
+        "filename": "brotli-1.2.1-cp313-cp313-win32.whl",
+        "url": "https://files.pythonhosted.org/packages/8c/b4/379b2e5584be70110b154021ffa61b84dc3b476d2c031317f5c3fbcfcde5/brotli-1.2.1-cp313-cp313-win32.whl",
+        "sha256": "c788fdab2eeeab671f5ab375ad010ef743f6c95be67f60f878e8876a51f6c671"
+      },
+      "cp313-win_amd64": {
+        "filename": "brotli-1.2.1-cp313-cp313-win_amd64.whl",
+        "url": "https://files.pythonhosted.org/packages/96/c2/0c7abb25013043d4bcf7dd768d343bf7dee6ce99ac8c172f7ee4aef1c772/brotli-1.2.1-cp313-cp313-win_amd64.whl",
+        "sha256": "e6c4fa55eab6b5684b33239597876a18a35ce1280b63ab960164032afbb8783f"
+      },
+      "cp313-win_arm64": {
+        "filename": "brotli-1.2.1-cp313-cp313-win_arm64.whl",
+        "url": "https://files.pythonhosted.org/packages/81/68/5f9d96203fdce3ff9ba1186ce10220e26483ffa2384cde5430dd980e9057/brotli-1.2.1-cp313-cp313-win_arm64.whl",
+        "sha256": "67f4dceb22ce3a742751cee849644449b169684699aa548e77d771de304e963c"
+      },
+      "cp314-win32": {
+        "filename": "brotli-1.2.1-cp314-cp314-win32.whl",
+        "url": "https://files.pythonhosted.org/packages/04/da/1ec2e9b4f500693e56e6391f128dd0d304d6d2b7f0d5090e80a802b722f1/brotli-1.2.1-cp314-cp314-win32.whl",
+        "sha256": "0a30e5df5ba985b67f85e13dfd7e5a68e186d8d9b5cff7d9a8904832bb413e81"
+      },
+      "cp314-win_amd64": {
+        "filename": "brotli-1.2.1-cp314-cp314-win_amd64.whl",
+        "url": "https://files.pythonhosted.org/packages/24/5e/80cd38322263da5e92ea4935423f1d3cfa2509201673dce77b772c47b997/brotli-1.2.1-cp314-cp314-win_amd64.whl",
+        "sha256": "972a2e19dbaab47d0aa77c1d07f71c930bdc53538f2b33decc905e92a4be5cbd"
+      },
+      "cp314-win_arm64": {
+        "filename": "brotli-1.2.1-cp314-cp314-win_arm64.whl",
+        "url": "https://files.pythonhosted.org/packages/c5/35/cb35c489fcd0a813bbb7500465af5a7bac3bee7d996f6a211bac9096ef2c/brotli-1.2.1-cp314-cp314-win_arm64.whl",
+        "sha256": "a3dea7e1ac49e29306500a8627fa3eacabcc9e238d22495eea2d8e61de77065b"
+      }
+    }
+  }
+}

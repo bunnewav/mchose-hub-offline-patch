@@ -11,8 +11,6 @@
 5. **If asked, paste the folder containing `MCHOSE HUB.exe`.** The installer normally finds it automatically. If access is denied because the application is in Program Files, quit setup and run `install.cmd` as administrator under the same Windows account.
 6. **Start your usual `MCHOSE HUB.exe`.** Disconnect the internet and verify the mouse settings you use.
 
-**Do not publish or upload your installed application, AppData, or generated offline snapshot. Only publish this source package.**
-
 ---
 
 An unofficial patch that loads the existing MCHOSE HUB interface from a local snapshot. Tested with an L7 Ultra connected through its 2.4 GHz receiver: detection, settings display, DPI changes, persistence after restarting, and interface reload with Chromium networking disabled.
